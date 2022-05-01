@@ -1,0 +1,181 @@
+norm,acceptance_rate,is_emerged,is_subsumed_by_emerged
+Norm{consequent=RING; conditions=Context{; callerRelationship=STRANGER; calleeLocation=LIBRARY}},0.439,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=STRANGER; calleeLocation=LIBRARY}},0.911,true,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false}},0.575,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=FAMILY; calleeLocation=HOME}},0.017,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=FAMILY; calleeLocation=ER}},0.018,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=STRANGER}},0.204,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; calleeLocation=HOME}},0.628,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true}},0.921,true,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=STRANGER; calleeLocation=HOME}},0.436,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=FRIEND}},0.795,false,false
+Norm{consequent=IGNORE; conditions=Context{; calleeLocation=ER}},0.252,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=FRIEND}},0.03,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=COLLEAGUE}},0.805,false,false
+Norm{consequent=IGNORE; conditions=Context{; calleeLocation=PARTY}},0.263,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=FAMILY}},0.97,true,true
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=COLLEAGUE; calleeLocation=MEETING}},0.02,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=COLLEAGUE; calleeLocation=MEETING}},0.392,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; calleeLocation=PARTY}},0.95,true,true
+Norm{consequent=RING; conditions=Context{; calleeLocation=ER}},0.714,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=FAMILY}},0.617,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=FAMILY; calleeLocation=MEETING}},0.019,false,false
+Norm{consequent=RING; conditions=Context{; calleeLocation=MEETING}},0.716,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=FAMILY}},0.788,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=STRANGER; calleeLocation=PARTY}},0.08,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=FRIEND; calleeLocation=HOME}},0.666,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=FRIEND; calleeLocation=HOME}},0.84,false,false
+Norm{consequent=IGNORE; conditions=Context{; calleeLocation=HOME}},0.263,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=STRANGER; calleeLocation=HOME}},0.092,false,false
+Norm{consequent=RING; conditions=Context{; calleeLocation=HOME}},0.707,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=FRIEND; calleeLocation=MEETING}},0.985,true,true
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=COLLEAGUE; calleeLocation=ER}},0.616,false,false
+Norm{consequent=IGNORE; conditions=Context{}},0.263,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=FRIEND}},0.183,false,false
+Norm{consequent=RING; conditions=Context{; calleeLocation=LIBRARY}},0.697,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=COLLEAGUE; calleeLocation=MEETING}},0.979,true,true
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=COLLEAGUE}},0.972,true,true
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=STRANGER; calleeLocation=ER}},0.1,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false}},0.418,false,false
+Norm{consequent=RING; conditions=Context{}},0.678,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=STRANGER}},0.123,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=STRANGER; calleeLocation=MEETING}},0.918,true,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=FRIEND}},0.97,true,true
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=COLLEAGUE; calleeLocation=HOME}},0.379,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=COLLEAGUE}},0.372,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=HOME}},0.83,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=FAMILY; calleeLocation=PARTY}},0.391,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=FAMILY}},0.381,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=FRIEND; calleeLocation=MEETING}},0.015,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=COLLEAGUE; calleeLocation=LIBRARY}},0.614,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=COLLEAGUE}},0.627,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=COLLEAGUE; calleeLocation=MEETING}},0.608,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true}},0.068,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; calleeLocation=LIBRARY}},0.621,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=STRANGER; calleeLocation=PARTY}},0.8,false,true
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=STRANGER; calleeLocation=HOME}},0.908,true,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=FAMILY; calleeLocation=ER}},0.821,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=STRANGER; calleeLocation=MEETING}},0.556,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=FRIEND; calleeLocation=MEETING}},0.838,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=STRANGER}},0.452,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; calleeLocation=MEETING}},0.623,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; calleeLocation=LIBRARY}},0.379,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=STRANGER; calleeLocation=ER}},0.792,false,true
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=PARTY}},0.158,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=FAMILY; calleeLocation=ER}},0.631,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; calleeLocation=ER}},0.613,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=STRANGER}},0.794,false,true
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=COLLEAGUE; calleeLocation=LIBRARY}},0.981,true,true
+Norm{consequent=RING; conditions=Context{; callerRelationship=FAMILY; calleeLocation=LIBRARY}},0.81,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=FRIEND; calleeLocation=HOME}},0.985,true,true
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=COLLEAGUE; calleeLocation=ER}},0.986,true,true
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=COLLEAGUE; calleeLocation=PARTY}},0.984,true,true
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=STRANGER}},0.528,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=FAMILY; calleeLocation=PARTY}},0.982,true,true
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=FRIEND}},0.653,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=STRANGER; calleeLocation=ER}},0.441,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=STRANGER; calleeLocation=HOME}},0.56,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; calleeLocation=PARTY}},0.049,false,false
+Norm{consequent=IGNORE; conditions=Context{; calleeLocation=LIBRARY}},0.265,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=FAMILY; calleeLocation=LIBRARY}},0.617,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=FRIEND}},0.345,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=FRIEND; calleeLocation=MEETING}},0.341,false,false
+Norm{consequent=RING; conditions=Context{; calleeLocation=PARTY}},0.707,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; calleeLocation=LIBRARY}},0.941,true,true
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=FAMILY; calleeLocation=LIBRARY}},0.024,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=FAMILY; calleeLocation=PARTY}},0.018,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=FAMILY; calleeLocation=HOME}},0.819,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=FRIEND; calleeLocation=MEETING}},0.659,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=FAMILY}},0.186,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=COLLEAGUE}},0.172,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=STRANGER; calleeLocation=LIBRARY}},0.2,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; calleeLocation=MEETING}},0.377,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=FRIEND; calleeLocation=LIBRARY}},0.012,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=FAMILY; calleeLocation=ER}},0.168,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=COLLEAGUE; calleeLocation=ER}},0.014,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=STRANGER; calleeLocation=ER}},0.552,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; calleeLocation=PARTY}},0.375,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; calleeLocation=HOME}},0.37,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; calleeLocation=ER}},0.945,true,true
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; calleeLocation=HOME}},0.049,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=FRIEND; calleeLocation=HOME}},0.153,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=STRANGER; calleeLocation=MEETING}},0.185,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=FAMILY}},0.028,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=FRIEND; calleeLocation=MEETING}},0.152,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; calleeLocation=PARTY}},0.624,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=MEETING}},0.161,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=FAMILY; calleeLocation=HOME}},0.983,true,true
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=STRANGER; calleeLocation=LIBRARY}},0.553,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=FAMILY; calleeLocation=HOME}},0.395,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=STRANGER; calleeLocation=PARTY}},0.564,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=FRIEND; calleeLocation=ER}},0.165,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=FAMILY; calleeLocation=PARTY}},0.816,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=PARTY}},0.832,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=STRANGER; calleeLocation=ER}},0.9,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=FRIEND; calleeLocation=ER}},0.822,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=FAMILY; calleeLocation=MEETING}},0.383,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=FRIEND; calleeLocation=HOME}},0.334,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; calleeLocation=HOME}},0.949,true,true
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=STRANGER}},0.876,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=COLLEAGUE; calleeLocation=PARTY}},0.617,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=FRIEND; calleeLocation=LIBRARY}},0.352,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=COLLEAGUE; calleeLocation=LIBRARY}},0.386,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=STRANGER; calleeLocation=LIBRARY}},0.089,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=FAMILY; calleeLocation=MEETING}},0.171,false,false
+Norm{consequent=IGNORE; conditions=Context{; calleeLocation=MEETING}},0.257,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=FRIEND; calleeLocation=LIBRARY}},0.988,true,true
+Norm{consequent=RING; conditions=Context{; callUrgency=true; calleeLocation=MEETING}},0.943,true,true
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; calleeLocation=MEETING}},0.055,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=FAMILY; calleeLocation=LIBRARY}},0.181,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=STRANGER; calleeLocation=LIBRARY}},0.8,false,true
+Norm{consequent=RING; conditions=Context{; callerRelationship=FAMILY; calleeLocation=MEETING}},0.82,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=STRANGER; calleeLocation=MEETING}},0.815,false,true
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=STRANGER; calleeLocation=PARTY}},0.92,true,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=FRIEND; calleeLocation=PARTY}},0.166,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=STRANGER; calleeLocation=MEETING}},0.082,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=FRIEND; calleeLocation=LIBRARY}},0.16,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=FRIEND; calleeLocation=PARTY}},0.982,true,true
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=STRANGER; calleeLocation=ER}},0.208,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=LIBRARY}},0.821,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=FAMILY; calleeLocation=LIBRARY}},0.383,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=LIBRARY}},0.171,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=MEETING}},0.831,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=STRANGER; calleeLocation=MEETING}},0.437,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; calleeLocation=ER}},0.051,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=ER}},0.157,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=COLLEAGUE}},0.027,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=FRIEND; calleeLocation=LIBRARY}},0.825,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=FAMILY; calleeLocation=PARTY}},0.609,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; calleeLocation=ER}},0.382,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=FAMILY; calleeLocation=ER}},0.369,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=FRIEND; calleeLocation=PARTY}},0.827,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=FRIEND; calleeLocation=ER}},0.985,true,true
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=HOME}},0.159,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=COLLEAGUE; calleeLocation=ER}},0.384,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=STRANGER; calleeLocation=PARTY}},0.431,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=FAMILY; calleeLocation=PARTY}},0.174,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=COLLEAGUE; calleeLocation=PARTY}},0.016,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; calleeLocation=LIBRARY}},0.056,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=STRANGER; calleeLocation=HOME}},0.185,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=FRIEND; calleeLocation=HOME}},0.015,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=FAMILY; calleeLocation=MEETING}},0.981,true,true
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=FAMILY; calleeLocation=ER}},0.982,true,true
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=COLLEAGUE; calleeLocation=HOME}},0.979,true,true
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=FRIEND; calleeLocation=PARTY}},0.644,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=COLLEAGUE; calleeLocation=HOME}},0.021,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=FAMILY; calleeLocation=MEETING}},0.617,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=FRIEND; calleeLocation=PARTY}},0.356,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=COLLEAGUE; calleeLocation=PARTY}},0.383,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=FRIEND; calleeLocation=PARTY}},0.018,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=FAMILY; calleeLocation=LIBRARY}},0.976,true,true
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=STRANGER; calleeLocation=PARTY}},0.2,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=FAMILY; calleeLocation=HOME}},0.605,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=FRIEND; calleeLocation=ER}},0.649,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=FRIEND; calleeLocation=LIBRARY}},0.648,false,false
+Norm{consequent=RING; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=ER}},0.835,false,false
+Norm{consequent=IGNORE; conditions=Context{; callerRelationship=FAMILY; calleeLocation=HOME}},0.172,false,false
+Norm{consequent=RING; conditions=Context{; callUrgency=true; callerRelationship=STRANGER; calleeLocation=HOME}},0.815,false,true
+Norm{consequent=RING; conditions=Context{; callUrgency=false; callerRelationship=COLLEAGUE; calleeLocation=HOME}},0.621,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=FRIEND; calleeLocation=ER}},0.015,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=false; callerRelationship=FRIEND; calleeLocation=ER}},0.351,false,false
+Norm{consequent=IGNORE; conditions=Context{; callUrgency=true; callerRelationship=COLLEAGUE; calleeLocation=LIBRARY}},0.019,false,false

@@ -1,0 +1,5 @@
+package base;
+
+public enum Relationship {
+    SIGNIFICANT_OTHER, FAMILY, RELATIVE, FRIEND, COLLEAGUE, CLASSMATE, STRANGER
+}

@@ -1,0 +1,55 @@
+# Callee Payoff
+# If Callee knows Caller: 
+# Answer a casual call[0]
+0.5
+# Ignore a casual call[1]
+0
+# Answer an urgent call[2]
+1
+# Ignore an urgent call[3]
+-0.5
+# If Callee does not know Caller:
+# Answer a casual call[4]
+0
+# Ignore a casual call[5]
+0.25
+# Answer an urgent call[6]
+0.5
+# Ignore an urgent call[7]
+-0.25
+
+#============================================#
+# Caller Payoff
+# Answer a casual call[8]
+0.5
+# Ignore a casual call[9]
+-0.5
+# Answer an urgent call[10]
+1
+# Ignore an urgent call[11]
+-1
+
+#============================================#
+# Neighbor Payoff
+# Two numbers per line for: 
+# Neighbor thinks callee should answer/ignore
+# Answer at home[12]
+0.67 -0.33
+# Ignore at home[13]
+-0.33 0.67
+# Answer in a meeting[14]
+1 -1
+# Ignore in a meeting[15]
+-1 1
+# Answer during a party[16]
+0.67 -0.33
+# Ignore during a party[17]
+-0.33 0.67
+# Answer in a library[18]
+1 -1
+# Ignore in a library[19]
+-1 1
+# Answer at the ER[20]
+1 -1
+# Ignore at the ER[21]
+-1 1

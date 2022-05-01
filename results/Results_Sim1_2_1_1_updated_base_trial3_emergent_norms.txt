@@ -1,0 +1,74 @@
+===========================
+[total: 36744341, accepts: 9964910, rejects: 26779431, cohesion: 27.119577, ringAccepts: 7594372, ignoreAccepts: 2370538, ringRejects: 16670983, ignoreRejects: 10108448]
+HOME stats: [total: 455586, accepts: 340311, rejects: 115275, cohesion: 74.697423, ringAccepts: 340311, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 115275]
+MEETING stats: [total: 1048826, accepts: 610403, rejects: 438423, cohesion: 58.198691, ringAccepts: 0, ignoreAccepts: 610403, ringRejects: 438423, ignoreRejects: 0]
+PARTY stats: [total: 1062893, accepts: 448895, rejects: 613998, cohesion: 42.233320, ringAccepts: 0, ignoreAccepts: 448895, ringRejects: 613998, ignoreRejects: 0]
+LIBRARY stats: [total: 16929802, accepts: 1311240, rejects: 15618562, cohesion: 7.745159, ringAccepts: 0, ignoreAccepts: 1311240, ringRejects: 15618562, ignoreRejects: 0]
+ER stats: [total: 17247234, accepts: 7254061, rejects: 9993173, cohesion: 42.059272, ringAccepts: 7254061, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 9993173]
+OFFICE stats: [total: 0, accepts: 0, rejects: 0, cohesion: NaN, ringAccepts: 0, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 0]
+THEATER stats: [total: 0, accepts: 0, rejects: 0, cohesion: NaN, ringAccepts: 0, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 0]
+CLASSROOM stats: [total: 0, accepts: 0, rejects: 0, cohesion: NaN, ringAccepts: 0, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 0]
+CAMPUS stats: [total: 0, accepts: 0, rejects: 0, cohesion: NaN, ringAccepts: 0, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 0]
+CONCERT stats: [total: 0, accepts: 0, rejects: 0, cohesion: NaN, ringAccepts: 0, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 0]
+RESTAURANT stats: [total: 0, accepts: 0, rejects: 0, cohesion: NaN, ringAccepts: 0, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 0]
+===========================
+
+========== Call Based explanation stats ===============
+===========================
+[total: 491087, accepts: 230234, rejects: 260853, cohesion: 46.882528, ringAccepts: 116259, ignoreAccepts: 113975, ringRejects: 184676, ignoreRejects: 76177]
+HOME stats: [total: 106891, accepts: 80613, rejects: 26278, cohesion: 75.416078, ringAccepts: 80001, ignoreAccepts: 612, ringRejects: 0, ignoreRejects: 26278]
+MEETING stats: [total: 106233, accepts: 61829, rejects: 44404, cohesion: 58.201312, ringAccepts: 2, ignoreAccepts: 61827, ringRejects: 44404, ignoreRejects: 0]
+PARTY stats: [total: 106535, accepts: 44941, rejects: 61594, cohesion: 42.184259, ringAccepts: 1, ignoreAccepts: 44940, ringRejects: 61594, ignoreRejects: 0]
+LIBRARY stats: [total: 85274, accepts: 6596, rejects: 78678, cohesion: 7.735066, ringAccepts: 0, ignoreAccepts: 6596, ringRejects: 78678, ignoreRejects: 0]
+ER stats: [total: 86154, accepts: 36255, rejects: 49899, cohesion: 42.081621, ringAccepts: 36255, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 49899]
+OFFICE stats: [total: 0, accepts: 0, rejects: 0, cohesion: NaN, ringAccepts: 0, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 0]
+THEATER stats: [total: 0, accepts: 0, rejects: 0, cohesion: NaN, ringAccepts: 0, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 0]
+CLASSROOM stats: [total: 0, accepts: 0, rejects: 0, cohesion: NaN, ringAccepts: 0, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 0]
+CAMPUS stats: [total: 0, accepts: 0, rejects: 0, cohesion: NaN, ringAccepts: 0, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 0]
+CONCERT stats: [total: 0, accepts: 0, rejects: 0, cohesion: NaN, ringAccepts: 0, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 0]
+RESTAURANT stats: [total: 0, accepts: 0, rejects: 0, cohesion: NaN, ringAccepts: 0, ignoreAccepts: 0, ringRejects: 0, ignoreRejects: 0]
+===========================
+
+========== Call Based explanation stats ends===============
+== Callee Location Stats==
+======== Location Stats ============
+HOME:== [total: 491087, stat: 106891, ratio (stat/total): 0.217662]
+MEETING:== [total: 491087, stat: 106233, ratio (stat/total): 0.216322]
+PARTY:== [total: 491087, stat: 106535, ratio (stat/total): 0.216937]
+LIBRARY:== [total: 491087, stat: 85274, ratio (stat/total): 0.173643]
+ER:== [total: 491087, stat: 86154, ratio (stat/total): 0.175435]
+OFFICE:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+THEATER:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+CLASSROOM:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+CAMPUS:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+CONCERT:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+RESTAURANT:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+========== Location Stats end ==============
+
+== Caller Location Stats==
+======== Location Stats ============
+HOME:== [total: 491087, stat: 97929, ratio (stat/total): 0.199413]
+MEETING:== [total: 491087, stat: 98178, ratio (stat/total): 0.199920]
+PARTY:== [total: 491087, stat: 98627, ratio (stat/total): 0.200834]
+LIBRARY:== [total: 491087, stat: 97736, ratio (stat/total): 0.199020]
+ER:== [total: 491087, stat: 98617, ratio (stat/total): 0.200814]
+OFFICE:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+THEATER:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+CLASSROOM:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+CAMPUS:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+CONCERT:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+RESTAURANT:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+========== Location Stats end ==============
+
+======== Relationship Stats ============
+SIGNIFICANT_OTHER:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+FAMILY:== [total: 491087, stat: 109759, ratio (stat/total): 0.223502]
+RELATIVE:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+FRIEND:== [total: 491087, stat: 114843, ratio (stat/total): 0.233855]
+COLLEAGUE:== [total: 491087, stat: 104006, ratio (stat/total): 0.211787]
+CLASSMATE:== [total: 491087, stat: 0, ratio (stat/total): 0.000000]
+STRANGER:== [total: 491087, stat: 162479, ratio (stat/total): 0.330856]
+========== Relationship Stats end ==============
+
+Avg privacy score: 0.000000
+Avg payoff: 0.699138

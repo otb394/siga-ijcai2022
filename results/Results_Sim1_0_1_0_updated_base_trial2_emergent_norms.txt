@@ -1,0 +1,3 @@
+[accepts: 9885673, rejects: 26722137, acceptanceRate: 27.004273, ringAccepts: 7531517, ignoreAccepts: 2354156, ringRejects: 16815230, ignoreRejects: 9906907]
+Avg privacy score: 0.000000
+Avg payoff: 0.651164

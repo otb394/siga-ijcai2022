@@ -1,0 +1,7 @@
+[Norm{consequent=IGNORE, conditions=Context{, callUrgency=false, callerRelationship=STRANGER, calleeLocation=MEETING}}, popularity: 0.934000]
+[Norm{consequent=RING, conditions=Context{, callUrgency=true, callerRelationship=COLLEAGUE}}, popularity: 0.930000]
+[Norm{consequent=RING, conditions=Context{, callUrgency=true, callerRelationship=FAMILY}}, popularity: 0.930000]
+[Norm{consequent=RING, conditions=Context{, callUrgency=true, callerRelationship=FRIEND}}, popularity: 0.920000]
+[Norm{consequent=IGNORE, conditions=Context{, callUrgency=false, callerRelationship=STRANGER, calleeLocation=PARTY}}, popularity: 0.918000]
+[Norm{consequent=IGNORE, conditions=Context{, callUrgency=false, callerRelationship=STRANGER, calleeLocation=HOME}}, popularity: 0.910000]
+[Norm{consequent=IGNORE, conditions=Context{, callUrgency=false, callerRelationship=STRANGER, calleeLocation=LIBRARY}}, popularity: 0.909000]

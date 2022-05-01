@@ -1,0 +1,7 @@
+[accepts: 25454867, rejects: 11604388, acceptanceRate: 68.686937, ringAccepts: 19442868, ignoreAccepts: 6011999, ringRejects: 6414788, ignoreRejects: 5189600]
+Avg privacy score: 0.279453
+Avg payoff: 1.548160
+=== Final Emergent Norms ===
+[Norm{consequent=RING, conditions=Context{, callUrgency=true}}, popularity: 0.924000]
+[Norm{consequent=IGNORE, conditions=Context{, callUrgency=false, callerRelationship=STRANGER, calleeLocation=PARTY}}, popularity: 0.904000]
+[Norm{consequent=IGNORE, conditions=Context{, callUrgency=false, callerRelationship=STRANGER, calleeLocation=HOME}}, popularity: 0.901000]

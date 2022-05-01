@@ -1,0 +1,5 @@
+[accepts: 32165468, rejects: 4149510, acceptanceRate: 88.573558, ringAccepts: 31357580, ignoreAccepts: 807888, ringRejects: 3049473, ignoreRejects: 1100037]
+Avg privacy score: 0.191999
+Avg payoff: 1.933654
+=== Final Emergent Norms ===
+[Norm{consequent=RING; conditions=Context{}}, popularity: 0.916000]

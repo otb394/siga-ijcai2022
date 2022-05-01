@@ -1,0 +1,20 @@
+[accepts: 28696268, rejects: 8192920, acceptanceRate: 77.790457, ringAccepts: 26715483, ignoreAccepts: 1980785, ringRejects: 4723573, ignoreRejects: 3469347]
+Avg privacy score: 0.236021
+Avg payoff: 1.765391
+=== Final Emergent Norms ===
+[Norm{consequent=RING; conditions=Context{; callUrgency=true}}, popularity: 0.961000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=FRIEND; calleeLocation=ER}}, popularity: 0.931000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=FRIEND; calleeLocation=HOME}}, popularity: 0.930000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=FRIEND; calleeLocation=PARTY}}, popularity: 0.930000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=FRIEND; calleeLocation=MEETING}}, popularity: 0.930000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=HOME}}, popularity: 0.929000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=FAMILY; calleeLocation=ER}}, popularity: 0.926000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=MEETING}}, popularity: 0.925000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=PARTY}}, popularity: 0.925000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=LIBRARY}}, popularity: 0.925000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=COLLEAGUE; calleeLocation=ER}}, popularity: 0.924000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=FAMILY; calleeLocation=PARTY}}, popularity: 0.923000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=FRIEND; calleeLocation=LIBRARY}}, popularity: 0.923000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=FAMILY; calleeLocation=MEETING}}, popularity: 0.920000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=FAMILY; calleeLocation=HOME}}, popularity: 0.917000]
+[Norm{consequent=RING; conditions=Context{; callerRelationship=FAMILY; calleeLocation=LIBRARY}}, popularity: 0.914000]
